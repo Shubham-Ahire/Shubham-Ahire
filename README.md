@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-<h3 align="center">A passionate & Aspiring Cloud Engineer</h3>
+<h3 align="center">A Passionate & Aspiring Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-ahire&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-ahire" /> </p>
 
 - 🔭 I’m currently working on **Tier three cloud**
 
 - 🌱 I’m currently learning **AWS,Azure,DevOps**
-
-- 👨‍💻 All of my projects are available at [example](example)
 
 - 📝 I regularly write articles on [hashnode](hashnode)
 
