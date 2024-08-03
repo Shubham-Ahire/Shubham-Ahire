@@ -8,11 +8,8 @@
 
 - 🌱 I’m currently learning **AWS,Azure,DevOps**
 
-- 📝 I regularly write articles on [hashnode](hashnode)
+- 📫 How to reach me [LinkedIn](www.linkedin.com/in/ahireshubham)
 
-- 📫 How to reach me **ahireshubham202@gmail.com**
-
-- 📄 Know about my experiences [soon](soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
