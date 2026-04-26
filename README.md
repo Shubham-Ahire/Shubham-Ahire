@@ -1,2 +1,2 @@
 # My-Portfolio
-Personal portfolio containing Projects
+Personal portfolio containing Projects & Resume.
